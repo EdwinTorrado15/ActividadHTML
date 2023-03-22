@@ -1,0 +1,35 @@
+nav {
+  background-color: #bd1f36;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+}
+
+nav ul {
+  display: flex;
+  gap: 20px;
+}
+
+nav li {
+  list-style: none;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+}
+
+.header {
+  background-image: url("https://images.vexels.com/media/users/3/144598/raw/96a2d7aa32ed86c5e4bd089bdfbd341c-encabezado-de-banner-de-noticias-de-ultima-hora.jpg");
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+main {
+  padding: 20px 100px;
+}
